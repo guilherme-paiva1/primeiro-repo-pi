@@ -1,0 +1,10 @@
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.div-grafico {
+    display: flex;
+    width: 40%;
+    height: auto;
+}
